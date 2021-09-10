@@ -1,4 +1,4 @@
-### Get to know me! I’m:
+### 👋 Get to know me! I’m:
 
 <img alt="Gabriel Romay" src="https://github.com/W01fw00d/W01fw00d/blob/main/interview.png" data-canonical-src="https://github.com/W01fw00d/W01fw00d/blob/main/interview.png" />
 
@@ -21,13 +21,13 @@
   - 🌄 [Code Retreat 2017](https://www.coderetreat.org/)
 - 💁🏻‍♂️ Pronouns: he/him
 
-### Stats
+### 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W01fw00d&hide=html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=W01fw00d&theme=tokyonight)](https://github.com/W01fw00d/github-readme-stats)
 
-🧰 Toolbox
+### 🧰 Toolbox
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/>
