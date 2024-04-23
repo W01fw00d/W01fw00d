@@ -27,10 +27,9 @@
 
 ### 🧰 Toolbox
 
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Less Logo" width="50" height="50"/>
