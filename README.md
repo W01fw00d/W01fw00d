@@ -1,7 +1,5 @@
 ### 👋 Get to know me! I’m:
 
-<img alt="Gabriel Romay" src="https://github.com/W01fw00d/W01fw00d/blob/main/interview.png" data-canonical-src="https://github.com/W01fw00d/W01fw00d/blob/main/interview.png" />
-
 - 👨‍💻 Currently working on [Web Development](https://www.linkedin.com/in/%F0%9F%96%B1%EF%B8%8Fgabriel-romay-machado-40050a114/?locale=en_US)
 - 😸 Doing for fun:
   - 📲 [Modern Frontend](https://github.com/W01fw00d/cooking-with-amateurs)
