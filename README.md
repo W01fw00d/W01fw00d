@@ -19,12 +19,6 @@
   - 🌄 [Code Retreat 2017](https://www.coderetreat.org/)
 - 💁🏻‍♂️ Pronouns: he/him
 
-### 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W01fw00d&hide=html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=W01fw00d&theme=tokyonight)](https://github.com/W01fw00d/github-readme-stats)
-
 ### 🧰 Toolbox
 
 <div>
